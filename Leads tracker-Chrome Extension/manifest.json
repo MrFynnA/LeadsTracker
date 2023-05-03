@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "Leads Tracking",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "dollasign.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

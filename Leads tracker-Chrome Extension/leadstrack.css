@@ -1,0 +1,63 @@
+/* .b-jcolor {
+    color: goldenrod;
+    text-align: center;
+} */
+
+
+/* body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #016f32;
+    font-size: 30px;
+    /* color: wheat; */
+
+button {
+    color: #016f32;
+    background-color: rgb(32, 199, 218);
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    border: none;
+}
+
+#openbox {
+    background-color: lightcoral;
+    padding: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 50px;
+    margin-top: 20%;
+    border-radius: 15px
+}
+
+#box2 {
+    background-color: rgb(255, 132, 0);
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+li {
+    color: rgb(44, 150, 44);
+    text-decoration: underline;
+}
+
+ul {
+    color: rgb(44, 150, 44);
+    list-style: none;
+    padding-left: 0;
+    margin-top: 20px;
+}
+
+a {
+    color: rgb(44, 150, 44);
+}
+
+a:hover {
+    color: rgb(44, 150, 44);
+    ;
+}
